@@ -9,6 +9,12 @@ The goal is to support **data-driven logistics decision-making** by identifying 
 
 ---
 
+DashBoard Overview
+
+<img width="1322" height="733" alt="Screenshot 2025-12-25 133320" src="https://github.com/user-attachments/assets/5838ae57-f187-451b-9ebf-14ce139b18db" />
+
+---
+
 ## 🎯 Business Objectives
 
 * Measure overall delivery performance using key KPIs
