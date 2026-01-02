@@ -6,7 +6,9 @@ This project focuses on analyzing logistics and delivery data to optimize delive
 The analysis transforms raw logistics data into meaningful insights using Python for data preprocessing and Power BI for visualization and KPI analysis.
 
 The goal is to support data-driven logistics decision-making by identifying delay patterns, cost drivers, and performance gaps across cities, transport modes, and warehouses.
+
 .
+
 
 🎯 Business Objectives
 
@@ -19,6 +21,8 @@ Analyze delivery time across cities and transport modes
 Evaluate shipping cost efficiency by distance and transport mode
 
 Enable interactive analysis for logistics stakeholders
+
+
 .
 
 
@@ -43,7 +47,10 @@ Delivery Status (Early, On Time, Delayed)
 Delay Reason
 
 Customer Rating
+
+
 .
+
 
 
 🛠 Tools & Technologies Used
@@ -51,6 +58,8 @@ Customer Rating
 Python (Pandas, NumPy) – Data cleaning & feature engineering
 
 Power BI – KPI dashboards & interactive analysis
+
+
 .
 
 
